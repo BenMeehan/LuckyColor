@@ -1,0 +1,10 @@
+{
+  "programming":"info",
+  "dsa":"danger",
+  "os":"info",
+  "software":"success",
+  "scifi":"warning",
+  "sports":"danger",
+  "football":"success",
+  "top5":"info"
+}
